@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá! Eu sou o Ocimar 👋
 
-<!--
-**ocimarojr/ocimarojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional de TI em transição de carreira, unindo minha bagagem de comunicação (como Professor de História) com minha paixão por tecnologia.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando em: Projetos de portfólio do curso **CS50 de Harvard**.
+- 🌱 Aprendendo: C, Python, SQL e Suporte de TI.
+- 🎓 Formação: Cursando Análise e Desenvolvimento de Sistemas (UVA).
+- 💼 Objetivo: Oportunidades como Analista de Suporte / Técnico de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack & Ferramentas:**
+- **Linguagens:** C, Python, HTML/CSS.
+- **Ambiente:** VS Code, Git, Linux (WSL).
+- **Suporte:** Hardware, Redes, Windows Troubleshooting.
