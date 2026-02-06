@@ -48,7 +48,7 @@ Sono un professionista IT in transizione di carriera. Unisco la mia esperienza n
 
 ### 🛠️ Tech Stack & Ferramentas
 
-**Linguagens & Frameworks**
+**Linguagens & Frameworks** <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -58,16 +58,16 @@ Sono un professionista IT in transizione di carriera. Unisco la mia esperienza n
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Ambiente & Controle**
+**Ambiente & Controle**<br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Sistemas Operacionais**
+**Sistemas Operacionais**<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
 
-**Suporte de TI**
+**Suporte de TI**<br>
 ![Hardware](https://img.shields.io/badge/Hardware-Manutenção-gray?style=for-the-badge)
 ![Redes](https://img.shields.io/badge/Redes-TCP%2FIP-blue?style=for-the-badge)
