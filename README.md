@@ -1,4 +1,5 @@
-### Olá! Eu sou o Ocimar 👋
+# Olá! Eu sou o Ocimar 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ocimarjr/)
 
 Sou um profissional de TI em transição de carreira, unindo minha bagagem de comunicação (como Professor de História) com minha paixão por tecnologia.
 
@@ -14,6 +15,7 @@ Sou um profissional de TI em transição de carreira, unindo minha bagagem de co
 <br>
 
 ### Hello! I'm Ocimar 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ocimarjr/)
 
 I am an IT professional currently transitioning careers, combining my communication background (as a History Teacher) with my passion for technology.
 
@@ -30,6 +32,7 @@ I am an IT professional currently transitioning careers, combining my communicat
 <br>
 
 ### Ciao! Sono Ocimar 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ocimarjr/)
 
 Sono un professionista IT in transizione di carriera. Unisco la mia esperienza nella comunicazione (come Professore di Storia) alla mia passione per la tecnologia.
 
@@ -43,18 +46,26 @@ Sono un professionista IT in transizione di carriera. Unisco la mia esperienza n
 
 ---
 
-### 🛠 Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Ferramentas
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
-| **Ambiente** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
-| **Suporte** | Hardware • Redes (TCP/IP) • Windows Troubleshooting |
+**Linguagens & Frameworks**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<br>
+**Ambiente & Controle**
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ocimarjr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+**Sistemas Operacionais**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+
+**Suporte de TI**
+![Hardware](https://img.shields.io/badge/Hardware-Manutenção-gray?style=for-the-badge)
+![Redes](https://img.shields.io/badge/Redes-TCP%2FIP-blue?style=for-the-badge)
